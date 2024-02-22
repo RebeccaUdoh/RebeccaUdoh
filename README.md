@@ -29,7 +29,7 @@ Open Source Project Name: Brief description of your contributions to the project
 
 Certifications 
 
-Introduction to Cybersecuty by Cisco
+Introduction to Cybersecurity by Cisco
 
 ISO\IEC27001:2022 Information Security Associate
 
